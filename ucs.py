@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb  1 05:04:18 2021
-
-@author: deepak
-"""
-
 class PQueue():
     def __init__(self):
         self.dict = {}
@@ -64,4 +57,4 @@ def ucs(start, goal, g):
             # adding new path and cost to pqueue
             frontier.push(new_path, new_cost)      
  
-ucs('Arad', 'Bucharest', path_costs('./paths.txt'))
+ucs('Arad', 'Bucharest', path_costs('./Paths.txt'))
