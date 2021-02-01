@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb  1 05:36:35 2021
-
-@author: deepak
-"""
-
 from collections import defaultdict
 
 class Graph:
