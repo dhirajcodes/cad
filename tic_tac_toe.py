@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb  1 06:32:08 2021
-
-@author: deepak
-"""
-
 import os
  
 turn = 'X'
