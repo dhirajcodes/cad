@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb  1 06:37:17 2021
-
-@author: deepak
-"""
 
 import numpy as np
 theta = 1                        
