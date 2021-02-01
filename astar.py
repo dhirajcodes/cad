@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb  1 04:56:07 2021
-
-@author: deepak
-"""
-
 class PQueue():
     def __init__(self):
         self.dict = {}
@@ -78,4 +71,4 @@ def a_star(start, goal, h, g):
             frontier.push(new_path, new_cost) 
             
 
-a_star('Arad', 'Bucharest', heuristics('./heuristics.txt'), path_costs('./paths.txt'))
+a_star('Arad', 'Bucharest', heuristics('./Heuristics.txt'), path_costs('./Paths.txt'))
