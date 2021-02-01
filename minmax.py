@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb  1 05:52:27 2021
-
-@author: deepak
-"""
-
 import math
 import random
 
