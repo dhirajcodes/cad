@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb  1 06:27:15 2021
-
-@author: deepak
-"""
-
 def backtrack(x, enemies, domain, assigned):
     if -1 not in assigned: # checking for unassigned people
         return x
