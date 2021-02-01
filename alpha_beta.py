@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb  1 06:04:41 2021
-
-@author: deepak
-"""
-
 tree=[[[5,1,2],[8,-8,-9]],[[9,4,5],[-3,-4,3]]]
 root=0
 pruned=0
